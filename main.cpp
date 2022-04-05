@@ -54,15 +54,15 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 //  1)
 //  Noun:        cloud
 //  action 1:    drops water
-cloud.dropsWater();
+cloud.dropWater();
 //  action 2:    disappears
 cloud.disappear();
 //  action 3:    turns violet
-cloud.turnsViolet();
+cloud.turnViolet();
 //  2)
 //  Noun:        water
 //  action 1:    freezes
-water.freese();
+water.freeze();
 //  action 2:    evaporates
 water.evaporate();
 //  action 3:    boils
@@ -70,7 +70,7 @@ water.boil();
 //  3)            
 //  Noun:        car
 //  action 1:    is standing still
-car.standing();
+car.stand();
 //  action 2:    is driving
 car.drive();
 //  action 3:    turns left
