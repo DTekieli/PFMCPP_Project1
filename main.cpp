@@ -4,7 +4,7 @@
  Project 1 - Part 1 / 1
  Video: Chapter 2 Part 1
  
-Create a branch named Part1
+Create a branch named Part1 #done
 
 Purpose:  This project will get you thinking correctly about choosing good names for the tasks that your objects will perform. 
 This project will also introduce you to the review process, and how Pull Requests work.
@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        cloud
+//  action 1:    drops water
+cloud.dropWater();
+//  action 2:    disappears
+cloud.disappear();
+//  action 3:    turns violet
+cloud.turnViolet();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        water
+//  action 1:    freezes
+water.freeze();
+//  action 2:    evaporates
+water.evaporate();
+//  action 3:    boils
+water.boil();
+//  3)            
+//  Noun:        car
+//  action 1:    is standing still
+car.stand();
+//  action 2:    is driving
+car.drive();
+//  action 3:    turns left
+car.turnLeft():
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        Compressor
+//  action 1:    squishes audio
+compressor.squish();
+//  action 2:    does not squish audio
+compressor.noSquish();
+//  action 3:    shows overload
+compressor.overload();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        lightbulb
+//  action 1:    illuminates red
+lightbulb.red();
+//  action 2:    illuminates green
+lightbulb.green();
+//  action 3:    illuminates blue
+lightbulb.blue();
+//  6)            
+//  Noun:        TV
+//  action 1:    shows news
+tv.news();
+//  action 2:    shows snow
+tv.snow():
+//  action 3:    is on standby
+tv.stby();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        flatmate
+//  action 1:    is sleeping
+flatmate.sleep();
+//  action 2:    walks throuh the flat
+flatmate.walk();
+//  action 3:    refuses to tidy up
+flatmate.refuse():
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        Monk
+//  action 1:    meditates
+monk.meditate();
+//  action 2:    does yoga
+monk.yoga();
+//  action 3:    walks
+monk.walks();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        phone
+//  action 1:    rings
+phone.ring();
+//  action 2:    vibrates
+phone.vibrate();
+//  action 3:    explodes
+phone.explode();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        fly
+//  action 1:    flies
+fly.fly();
+//  action 2:    sits on screen
+fly.sitOnScreen();
+//  action 3:    moves on screen
+fly.moveOnScreen();
 
 
 #endif
